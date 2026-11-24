@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@source "../src";
 
 @theme {
   --font-serif: "Bricolage Grotesque", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
