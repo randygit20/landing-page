@@ -16,7 +16,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenCheckout }) => {
           {/* Left Column (Copy & Conversion Block) */}
           <div className="lg:col-span-7 flex flex-col justify-center">
             {/* Headline */}
-            <h1 className="font-serif text-3xl sm:text-4xl lg:text-5xl font-medium tracking-tight text-[#F5F2EA] leading-[1.14] mb-6 text-balance">
+            <h1 className="font-serif text-6xl sm:text-4xl lg:text-5xl font-medium tracking-tight text-[#F5F2EA] leading-[1.14] mb-6 text-balance">
               The Hardest Part Isn't Doing the Work. It's Starting.
             </h1>
 
