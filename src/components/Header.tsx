@@ -17,7 +17,7 @@ export const Header: React.FC<HeaderProps> = ({ onOpenCheckout }) => {
         {/* Zone 1: Single text element wordmark */}
         <a 
           href="#" 
-          className="font-serif text-base sm:text-lg font-medium tracking-tight text-[#F5F2EA] hover:text-[#9B6BD6] transition-colors whitespace-nowrap"
+          className="font-serif text-sm sm:text-base font-medium tracking-tight text-[#F5F2EA] hover:text-[#9B6BD6] transition-colors whitespace-nowrap"
         >
           Reclaim Your Focus
         </a>
